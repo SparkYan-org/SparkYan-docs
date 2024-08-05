@@ -19,7 +19,7 @@ actions:
 copyright: false
 footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2018-present MoYan
 ---
-## 平台
+<!-- ## 平台
 
 我目前使用了以下软件厂商提供的服务
 
@@ -27,4 +27,4 @@ footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePr
     <img src="/assets/icon/github_logo.jpg" alt="Deploys by Github" weight="100px"/>
 </a> &nbsp;
 <a href="https://pypi.org"><img src="/assets/icon/pypi_logo.jpg" alt="Deploys by Pypi" ></a> &nbsp;
-<a href="https://reqlit.com"><img src="/assets/icon/replit_logo.jpg" alt="Deploys by Replit" weight="100px"/></a> &nbsp;
+<a href="https://reqlit.com"><img src="/assets/icon/replit_logo.jpg" alt="Deploys by Replit" weight="100px"/></a> &nbsp; -->
