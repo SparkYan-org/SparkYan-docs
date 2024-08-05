@@ -2,10 +2,10 @@
 home: true
 icon: home
 title: 主页
-heroImage: /logo.svg
+heroImage: /logo.png
 
-heroText: MoYanDocs
-tagline: 莫颜JDC的文档站
+heroText: SparkYan
+tagline: 专为Galgame设计的轻量级游戏引擎
 actions:
 
   - text: 开始

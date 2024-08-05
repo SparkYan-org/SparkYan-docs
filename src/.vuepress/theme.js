@@ -17,9 +17,9 @@ export default hopeTheme({
 
     iconAssets: "iconfont",
 
-    logo: "/logo.svg",
+    logo: "/logo.png",
 
-    repo: "SparkYan-org/SparkYan_docs",
+    repo: "SparkYan-org/Spark-Yan",
 
     docsDir: "src",
     fullscreen: true,
